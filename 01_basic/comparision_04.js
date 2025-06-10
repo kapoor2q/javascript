@@ -9,7 +9,7 @@
 // console.log("02" > 1);
 
 console.log(null > 0);
-console.log(null == 0);
+console.log(null == 0); (loose equality) operator has special rules 
 console.log(null >= 0);
 
 console.log(undefined == 0);
